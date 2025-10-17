@@ -1,5 +1,3 @@
----
-
 # ADK Agents Assignment (Part A + Part B)
 
 > Build and demo production-style AI agents using the **Agent Development Kit (ADK)**, attach tools (including **MCP Toolbox**), and ship a hackathon-grade agent app.
