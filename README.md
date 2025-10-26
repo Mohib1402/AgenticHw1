@@ -96,7 +96,7 @@ CMPE297B.ipynb    # Part B: Job Interview Agent + Gradio UI
 
 ## Video (single link for all four)
 
-* **Full demo (A1 + A2 + A3 + Part B):** [DEMO](https://youtube.com)
+* **Full demo (A1 + A2 + A3 + Part B):** [DEMO](https://drive.google.com/file/d/1rUVncP4FqRRukMc_mHnILzWLkApCd-vn/view?usp=sharing)
 
 ---
 
